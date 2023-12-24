@@ -14,7 +14,7 @@ DBT_PROFILE_DIR = "../../opt/dbt/"
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'email': ['nwolduberhe89@gmail.com'],
+    'email': ['wolduberhe89@gmail.com'],
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 0,

@@ -1,4 +1,4 @@
-version: "2"
+version: "3"
 x-redash-service: &redash-service
   image: docker.io/redash/redash:latest
   # image: arm64v8/redash:8.0.0.b32245 
