@@ -1,3 +1,4 @@
 dbt==0.15
 pandas
 numpy
+snowflake-connector-python>=4.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
